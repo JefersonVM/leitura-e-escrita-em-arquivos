@@ -3,5 +3,8 @@
   { "name": "Maria", "age": 20 },
   { "name": "Pedro", "age": 30 },
   { "name": "Jeferson Vieira", "age": 42 },
-  { "name": "Jeferson Vieira", "age": 42 }
+  { "name": "Jeferson Vieira", "age": 42 },
+  { "name": "Cabeça de poico", "age": 2 },
+  { "name": "Cabeça de poico verde", "age": 2 },
+  { "name": "Cabeça de poico verde ", "age": 2 }
 ]
